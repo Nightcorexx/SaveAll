@@ -9,6 +9,6 @@ commands:
     permission: command.saveAll.sa
     permission-message: §4§lKeine Rechte
   sa-get:
-    description: Prints the autosave time in M+:S+ format
+    description: Prints the autosave time in M+:SS format and displays the remaining time to the next save
     permission: command.saveAll.sa-get
     permission-message: §4§lKeine Rechte

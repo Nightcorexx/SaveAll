@@ -12,7 +12,7 @@ import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
 /**
- * Runs the "/save-all" command every {@link #AUTOSAVE_TIME_MINUTES} minutes.
+ * Runs the "/save-all" command every {@link #AUTOSAVE_TIME_MINUTES} minutes and {@link #AUTOSAVE_TIME_SECONDS} seconds.
  * <p>
  * Another feature to be added is the option to disable the output in the chat/only display it to users with the
  * specific permission
