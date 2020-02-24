@@ -1,0 +1,14 @@
+name: SaveAll
+version: "1.1"
+author: Nightcorex
+main: de.nightcorex.saveAll.Main
+
+commands:
+  sa:
+    description: Set the autosave time in M+:S+ or S+ format
+    permission: command.saveAll.sa
+    permission-message: §4§lKeine Rechte
+  sa-get:
+    description: Prints the autosave time in M+:S+ format
+    permission: command.saveAll.sa-get
+    permission-message: §4§lKeine Rechte

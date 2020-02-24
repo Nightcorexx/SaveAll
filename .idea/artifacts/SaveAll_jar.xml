@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SaveAll:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SaveAll_jar</output-path>
+    <root id="archive" name="SaveAll.jar">
+      <element id="module-output" name="SaveAll" />
+    </root>
+  </artifact>
+</component>
